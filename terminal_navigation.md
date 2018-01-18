@@ -36,7 +36,7 @@ Day to day:
 - Visibility of instructor code
 	- Speak up if the instructor's code is not visible (eg. too small).
 - Thumbsups
-	- We use the thumbsup emoji (or in this case the Gizmo / Gremlin emojis) to gauge completeness of exercises. Click on the thumb or Gizmo or Gremlin when you are done with an exercise.
+	- We use the thumbsup emoji (or in this case the we can use a snake emojis) to gauge completeness of exercises. Click on the thumb or snake or other emoji when you are done with an exercise.
 
 
 <br>
@@ -430,6 +430,15 @@ We are going to:
 <hr>
 
 You can dive deeper by checking out `Your-Development-Environment.ipynb`
+
+## Hello World!
+
+We can open a python shell by typing in bash
+ - `python` - notcie the prompt will change from a `$` to a `>>>`
+ - `x = 'Hello world!'`
+ - `print(x)`
+ - `exit()` - prompt returns to `$`
+
 
 
 ## More Terminal Keyboard shortcuts
