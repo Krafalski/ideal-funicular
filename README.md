@@ -8,12 +8,12 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two part lesson, outlined below | [Here](Your-Development-Environment.ipynb) |
-| Practice Activity | Jupyter Notebook Practice | [Here](./practice/ipynb_practice1.ipynb) |
-| Practice Solutions | Jupyter Notebook Solutions | [Here](./practice/solution-code/ipynb_practice1-solution.ipynb) |
-| Extra Materials | Source Materials Adapted For This Lesson | [Here](./extra-materials/) |
+| Lesson | Two part lesson, outlined below | [Terminal Navigation](terminal_navigation.md) , [Intro to Git & Github](git_and_github.md) |
+| Bonus Practice Activity | Jupyter Notebook Practice | [Here](./practice/ipynb_practice1.ipynb) |
+| Bonus Practice Solutions | Jupyter Notebook Solutions | [Here](./practice/solution-code/ipynb_practice1-solution.ipynb) |
+| Extra Materials | Source Materials For This Lesson | [Here](./extra-materials/) |
 
-The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git, so the majority of this lesson will be understanding and practicing Git.
+The Jupyter Notebook Practice can be used as a take-home practice assignment in preparation for the next class. It is optional.
 
 ---
 
@@ -24,6 +24,7 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Create folders and files using the command line (`mkdir`, `touch`).
 - Change directories and list directory content (`cd`, `ls`).
 - Check the current working directory (`pwd`).
+- Get some practice with a mini-lab
 
 ### Part 2 : Introduction to Git
 
@@ -31,7 +32,7 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Distinguish between local and remote repositories.
 - Create, copy, and delete repositories locally or on GitHub.
 - Clone remote repositories.
-- Establish Secure Shell connections to remote repositories.
+- Bonus : Establish Secure Shell connections to remote repositories.
 
 ----
 
@@ -43,9 +44,7 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Paths/Navigating (20 mins)
 - Editing and Examining Files (10 mins)
 - Finding Files (10 mins)
-- Independent Practice (10 mins)
-- Intro to IDEs (10 mins)
-- Conclusion
+- Mini-lab/Practice (remaining time)
 
 **Part 2 : Git and GitHub** (100 mins)
 - Introduction
@@ -54,8 +53,7 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Setting up Accounts: GitHub & GitHub Enterprise Accounts (10 mins)
 - Codealong: Creating and Cloning Repos (20 mins)
 - Codealong: Create a Pull Request on GitHub: (15 mins)
-- Secure Shell(SSH) (10 mins)
-- Independent Practice (10 mins)
+- Independent Practice (remaining time)
 - Conclusion
 
 ---
